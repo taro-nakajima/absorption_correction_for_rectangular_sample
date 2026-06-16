@@ -1,5 +1,7 @@
 # Calculation of neutron absorption for a rectanguar shaped sample
-```Usage:
+
+## Usage
+```
 python abs_correction_rectShapedSample.py hkl_list.txt
 ```
 
